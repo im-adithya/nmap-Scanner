@@ -1,10 +1,10 @@
-# nmap-Scanner
+### nmap-Scanner
 
 `nmap_scanner.py` imports nmap library to perform different types of scans. It requires an ip address and the type of scan you want to perform on it. For now it has only three scans.
 
-*SYN ACK Scan
-*UDP Scan
-*Comprehensive Scan
+* SYN ACK Scan
+* UDP Scan
+* Comprehensive Scan
 
 Here is a sample output of the program:
 ```
